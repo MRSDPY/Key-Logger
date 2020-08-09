@@ -1,7 +1,8 @@
 # SD Key Logger
  ---
  For capture keyboard copy this **steps** :-
- #### 1) Download This key-logger file.
+ #### 1) You Can install SD KeyLogger using
+         pip install SDKeyLogger
  #### 2) And then import it
          from key_logger import SDKeylogger
  #### 3) After that add this two line
