@@ -11,4 +11,3 @@
  ### Note:- Here, in SDKeylogger you can pass the file name with extension 
  ###            example :- SDKeylogger("key.txt")
  
- ## In next update we can solve **"SHIFT"** key problem.
